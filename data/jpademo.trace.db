@@ -1,0 +1,6 @@
+2026-02-06 11:58:17.371375+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * [*]fron FUN"; SQL statement:
+select * fron FUN [42000-240]
+2026-02-06 11:58:17.716984+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * [*]fron FUN"; SQL statement:
+select * fron FUN [42000-240]
